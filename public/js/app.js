@@ -6508,7 +6508,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.composer textarea {\r\n    width: 96%;\r\n    resize: none;\r\n    margin: 10px;\r\n    padding: 6px;\r\n    border-radius: 3px;\r\n    border: 1px solid lightgrey;\n}\r\n", ""]);
+exports.push([module.i, "\n.composer textarea {\n    width: 96%;\n    resize: none;\n    margin: 10px;\n    padding: 6px;\n    border-radius: 3px;\n    border: 1px solid lightgrey;\n}\n", ""]);
 
 // exports
 
@@ -50974,8 +50974,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! E:\xampp\htdocs\Messenger\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! E:\xampp\htdocs\Messenger\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /opt/lampp/htdocs/laravel/Messenger/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /opt/lampp/htdocs/laravel/Messenger/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
